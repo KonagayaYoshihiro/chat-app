@@ -52,6 +52,7 @@
 .chat {
   background-color: #ffffff;
   width: calc(100% - 300px);
+  
 }
 
 .chat-header {
